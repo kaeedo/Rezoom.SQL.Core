@@ -1,3 +1,5 @@
+test
+
 [![Build Status](https://travis-ci.org/rspeele/Rezoom.SQL.svg?branch=master)](https://travis-ci.org/rspeele/Rezoom.SQL)
 
 [Tutorial & full documentation](https://rspeele.gitbooks.io/rezoom-sql/doc/Tutorial/)
